@@ -3,7 +3,7 @@ const containerList = document.getElementById("container");
 
 function addTask() {
     if (inputBox.value === '') {
-        alert("First you wright somethings")
+        alert("First you write something")
     }
 
     else {
